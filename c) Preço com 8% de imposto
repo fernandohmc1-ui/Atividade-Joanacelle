@@ -1,0 +1,5 @@
+preco = float(input("Digite o valor do produto: "))
+
+preco_final = preco * 1.08
+
+print("Preço final:", preco_final)
